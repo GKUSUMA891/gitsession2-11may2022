@@ -2,3 +2,5 @@ file1 adding
 java
 python
 thundersoft
+thunder
+golden star
